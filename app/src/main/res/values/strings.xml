@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="get_kwacha">Get Kwacha</string>
+    <string name="get_dollars">Get Dollars</string>
+    <string name="us_dollars">US Dollars</string>
+    <string name="malawi_kwacha">Malawi Kwacha</string>
+</resources>

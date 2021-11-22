@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="malawi_kwacha">Kwacha ya Malawi</string>
+    <string name="us_dollars">Ma Dollars</string>
+    <string name="get_dollars">Ndifuna Ma Dollars</string>
+    <string name="get_kwacha">Ndifuna Ma Kwacha</string>
+</resources>
